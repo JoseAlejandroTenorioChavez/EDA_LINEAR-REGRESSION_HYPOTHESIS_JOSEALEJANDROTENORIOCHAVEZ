@@ -8,14 +8,18 @@ El conjunto de datos incluye información sobre envíos individuales, como el m�
 
 # Dependencias
 Python
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
-Proceso
-Exploración de Datos
-Primero, exploramos el conjunto de datos para entender su estructura y contenido. Esto incluyó la carga del conjunto de datos en un DataFrame de pandas, el conteo de valores nulos, la visualización de estadísticas descriptivas y la identificación de anomalías.
+
+.
 
 # Limpieza y Preprocesamiento de Datos
 Luego, limpiamos y preprocesamos los datos para prepararlos para el modelado. Esto incluyó el tratamiento de valores nulos, la conversión de variables categóricas y la identificación y tratamiento de outliers.
