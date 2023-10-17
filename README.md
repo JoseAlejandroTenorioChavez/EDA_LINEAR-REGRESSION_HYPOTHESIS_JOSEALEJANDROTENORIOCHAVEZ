@@ -30,8 +30,5 @@ Construimos un modelo de regresión lineal utilizando las variables que estaban 
 # Evaluación del Modelo
 Evaluamos el rendimiento del modelo utilizando el error cuadrático medio (Mean Squared Error) y el coeficiente de determinación (R^2 Score).
 
-# Resultados
-Los resultados del modelo indicaron que… (aquí puedes incluir los resultados específicos que obtuviste).
-
 # Pruebas de Hipótesis
 Realizamos una prueba de hipótesis para determinar si la proporción de entregas tardías era mayor al 6%.
